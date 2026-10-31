@@ -1,0 +1,9 @@
+{
+  "appId": "com.tiltrush.game",
+  "appName": "Tilt Rush",
+  "webDir": "www",
+  "backgroundColor": "#0e1117",
+  "android": {
+    "allowMixedContent": false
+  }
+}
